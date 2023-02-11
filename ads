@@ -1,1 +1,81 @@
-hvbhvhj
+{ "ADS":
+{
+
+  "banner_type":"admob",
+  "inter_type":"admob",
+  "native_type":"admob",
+  "reward_type": "admob",
+
+  "applovin_banner":"7dc036a95ab8e332",
+  "applovin_interstitial":"fe3acc809f3c87b1",
+  "applovin_reward":"ca-app-pub-4567",
+  "applovin_native":"ca-app-pub-3940256099942544/5354046379",
+
+  "facebook_banner":"ca-app-pub56099942",
+  "facebook_interstitial":"ca-app-pub-567",
+  "facebook_reward":"02786725c1e32509",
+  "facebook_native":"2f915319fb229ec4"
+
+
+
+},
+  "guideData": [
+    {
+      "title": "PLAYMOD",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "PlayMods is a platform with almost all the games and apps that you may want to download, and there are tens of thousands of modded games and apps. Users can also play a lot of games for free! Playmods will update games and apps every day so that users can experience the latest version all the time.",
+      "isVip": false
+    }, 
+    {
+      "title": "Playmods advantages :",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Playmods has Toca tools and cloud saves that other gaming platforms don't have.",
+      "isVip": false
+    },
+    {
+      "title": "Toca tool :",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Toca tools can be found in . Toca Tools can provide Toca players with tools for archiving, Toca world map analysis, game strategy, and item search",
+      "isVip": false
+    },
+    {
+      "title": "Cloud archive :",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Toca World Cloud Archive can be activated after linking your Playmods account. After archiving, you don't have to worry about errors in the game archive content after exiting the game. The data will be permanently archived and have the opportunity to be viewed in the archives of famous players, and become the person everyone wants to imitate.",
+      "isVip": false
+    },
+    {
+      "title": "Completely Free ",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Users with Playmods can download games/apps that Playmods provides to users for free.",
+      "isVip": false
+    },
+    {
+      "title": "Daily Update",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Playmods will update the latest games/game guides/game information every day.",
+      "isVip": false
+    },
+    {
+      "title": "Popular mods",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "providing downloads of the most popular mods at the moment. Like Toca Life World and Minecraft.",
+      "isVip": false
+    },
+    {
+      "title": "Cra ed Games",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Playmods provides players with cracked versions of various games, all of which can be downloaded for free.",
+      "isVip": false
+    },
+    {
+      "title": "Cra ed Games",
+      "image_url": "https://lh3.googleusercontent.com/ultBC873QJfyylOjDG4LUQQfWrIhdrwG85-15r1OtMmDGXxvG8IEOjLcGb7SlxXLoESyXjkkrjI5whfjCXsVsjqToFsQ4yuxGxMosHLreYwG_DFXEn9iqKBIl4bBLJMD0aHrWSCfhwPLJo9uaa3gLUnlhaW7UUOQTgYCIKIvVjfJeED0eh9EIIvXCd36OUn9ylhqSvtw42jKjozD3R9Kh-tnqXlrrRgnZSdLBRypKTiIjmhJm8e2WT2QtpVQM_vdtUF-2C2FN8zvL2vKvlCrSs6AquviBCRyD7xU3JPfMxLbAc0wIWlrdsOHXtspFHWMT_hZEDaks7UEXo1FRf3jfQlBqU2ds2waRJO0Ar8bE03nlqyvR0CSey7vdn0Rt7AyOXfsRHe-9iDiH84UD5uS3jXAS8UGPTdOod0hq1T5js5ppNn5tt1xJ6-MnuZpv0xypXEc6WlHOkGGQCWVbsBy-tNW7ahb9rJJWivopiEWkdbUpuFYJWVZnkm4E8hs8f5KTxov34IBeuS_Z1tjCE5-C_9YJTeBOPYkKhmcq654TPPYjFC91kjxAtE3qW_lYqNwkdi3olJWOppxt8dg1bs5uwYybiUFknM_KgTCdkd2xpKatvcIV4HKOgaB15NHlxwJcXJChEwJB0u0VFtFd1onw5BDk0a_X870xilM2JwT_81x7sL6wE_DRh0XGIizzDy5VNr7AdEqESImDmi6zJEfC2peco1wvzaT8Vg0yljQ1CJ_kjAKedX6bx_oPlbiFehT5e6DvC40dIMObmOX0Uaud9lbPjb9GgPlDjAVg7ZHjDccAE4cv9VZ0EeHWyDWoWZKYFg6c6sGP_uHiZLfGv7Xefjet0FfQPzyTuFzJFffbGWbXrK0l1N2p8XGB4GXgVYCIIro71fClaPlCP0fDq4Q3LS2Yv1hR39SsKR9WzVYTJw=w1024-h500-no?authuser=0",
+      "text_Content": "Playmods provides players with cracked versions of various games, all of which can be downloaded for free.",
+      "isVip": false
+    }
+  ]
+}
+
+
+
